@@ -1,0 +1,128 @@
+.container{
+    width: 1000px;
+    color: grey;
+    height: 800px;
+    background-color: lightgray;
+}
+
+.header{
+    color: black;
+    display: inline-flex;
+    background-color: rgb(248,248,248);
+}
+
+#masters{
+    width: 700px;
+    text-align: right;
+}
+
+#jayne{
+    width: 300px;
+    text-align: left;
+}
+
+.bigred {
+    background-color: rgb(78,59,66);
+    height: 1000px;
+}
+
+img{
+    width: 460px;
+}
+
+.imageandabout{
+    display: flex;
+    padding: 20px;
+}
+
+#aboutme{
+    padding-left: 20px;
+}
+
+#aboutme h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(142,141,153);
+    color: rgb(255,242,226);
+    padding: 10px;
+}
+
+#aboutme p{
+    background-color: rgb(242,236,241);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 10px;
+    padding-bottom: 76px;
+}
+
+.box1{
+    background-color: rgb(237,228,236);
+    width: 300px;
+    margin: 20px;
+    height: 575px;
+}
+
+.box1 h2{
+    background-color: rgb(135,135,147);
+    color: rgb(255,255,255);
+    padding: 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.box1 p{
+    padding: 10px;
+    color: black;
+}
+
+#boximage{
+    width: 290px;
+}
+
+#techimage{
+    width:40px;
+    margin: 5px;
+}
+
+.boxes{
+    display: flex;
+}
+
+.techimage1{
+    margin: 10 10 40 10;
+    
+}
+
+.techimage1 img{
+    width:40px;
+    margin: 5px;
+}
+
+#button{
+    margin: 20px auto;
+    display: block;
+    text-align: center;
+    background-color: rgb(63,126,97);
+    color: white;
+    border-radius: 5px;
+}
+
+#footeremail{
+    font-size: larger;
+    text-align: center;
+    font-weight: 200;
+}
+
+.footertags{
+    text-align: center;
+}
+
+.footertags a{
+    font-size: 20px;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+#footerimage{
+    width: 30px;
+}
